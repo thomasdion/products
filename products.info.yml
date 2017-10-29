@@ -1,0 +1,5 @@
+name: products
+type: module
+description: This a products module
+core: 8.3.7
+package: Custom
